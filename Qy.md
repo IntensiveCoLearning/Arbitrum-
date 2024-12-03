@@ -51,7 +51,7 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ---
 
-# {Qy}
+# {我的名字：Qy}
 
 1. 自我介绍
    我是一名学软件的在校生，目前有时间，想多学习和了解web3，想通过这次LXDAO的残酷学习，学习到Arbitrum的知识。
